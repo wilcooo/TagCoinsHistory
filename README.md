@@ -1,2 +1,2 @@
 # TagCoinsHistory
-tiny.cc/tagcoins
+http://tiny.cc/tagcoins
